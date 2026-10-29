@@ -1,3 +1,1 @@
-Hello, Hexlet! How are you?
-experiment with amend
-experiment with amend 2
+Helloo, Hexlet! How are you?
